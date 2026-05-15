@@ -1,2 +1,2 @@
-# test-repo
-test repo for GitHub workshop
+# Fun Fact
+* My favorite flower is daffodils
